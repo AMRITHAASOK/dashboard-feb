@@ -1,0 +1,39 @@
+
+img{
+    margin-left: 25px;
+}
+h1,p{
+    text-align: center;
+}
+.pages{
+    display: flex;
+    flex-direction: column;
+}
+.pages a{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.pages a:hover{
+    background-color: rgb(115, 115, 255);
+}
+.tools{
+    display: flex;
+    flex-direction: column;
+}
+.tools a{
+    text-decoration: none;
+    color: black;
+    margin: 5px;
+    padding: 10px;
+    text-align: center;
+}
+.tools a:hover{
+    background-color: rgb(115, 115, 255);
+}
+mat-icon{
+    vertical-align: middle;
+    padding: 10px;
+}

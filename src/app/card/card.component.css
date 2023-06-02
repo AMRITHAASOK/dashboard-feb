@@ -1,0 +1,25 @@
+.card{
+    width: 200px;
+    height: 100px;
+    padding: 10px;
+}
+mat-icon{
+    font-size: 28px;
+}
+.card-content h3{
+    font-weight: 600;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.green{
+    background-color: green;
+}

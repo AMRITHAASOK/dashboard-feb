@@ -1,0 +1,23 @@
+
+
+Parent Child Component communication
+-------------------------------------
+
+1 Child to Parent Communication - @Output decorator
+child - header
+parent -app.component
+
+
+2 parent to Child Communication - @Iutput decorator
+parent - main-content component
+child - card component
+
+3 Generate User Defined Event
+ -emit() 
+ -Event Emitter class - Used to generate user Defined events
+ 
+4 Attribute Directives
+Based on class property we can apply style to html 
+
+        i)InBuild Attribute Directives  - ngClass 
+        ii)User Defined Attribute Directives
